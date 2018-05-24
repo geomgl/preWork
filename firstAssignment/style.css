@@ -1,0 +1,63 @@
+header{
+    color: white; 
+    background-image: url("grass.png"); 
+    height: 150px; 
+    padding: 4px; 
+
+}
+
+body {
+    background-color: white;
+    max-width: 100%;; 
+    padding: 32px; 
+    margin: 0 auto; 
+    text-align: center;
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+
+header h1 {
+    line-height: 50px; 
+    font-size: 40px; 
+
+}
+
+header h2 {
+    font-size: 15px;
+}
+
+.topnav {
+    padding: 5px 0px 5px 0px; 
+    line-height: 32px;
+    background-color: grey;    
+}
+
+.topnav li{
+    display: inline; 
+    padding: 0px 10px 0px 10px; 
+    font-size: 15px; 
+    color: white; 
+}
+
+.topnav a {
+    text-decoration: none; 
+    font-variant: small-caps;
+    color: white; 
+}
+
+.topnav a:hover {
+    color: green; 
+}
+
+img {
+    height: auto; 
+    max-width: 100%;
+}
+
+
+
+
+
+
+
+
+
